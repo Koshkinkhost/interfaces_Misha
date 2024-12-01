@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|c:\\users\\boris\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0440\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\weaponselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\weaponselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\weaponselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -15,16 +15,28 @@
       "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\fight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\ifighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\ifighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\fight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\fight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\fight.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\fight.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -35,24 +47,12 @@
       "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|c:\\users\\boris\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0440\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\weaponselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\weaponselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\fight.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\fight.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\ifighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\ifighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\itrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -101,8 +101,12 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "WeaponSelect.cs",
               "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\WeaponSelect.cs",
               "RelativeDocumentMoniker": "interfaces\\WeaponSelect.cs",
@@ -122,19 +126,21 @@
               "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\WeaponSelect.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "interfaces\\WeaponSelect.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:42:26.014Z"
+              "WhenOpened": "2024-12-01T12:42:26.014Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "interfaces\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\Form1.Designer.cs",
               "RelativeToolTip": "interfaces\\Form1.Designer.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAhwJkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:30:13.893Z"
+              "WhenOpened": "2024-12-01T12:30:13.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -144,9 +150,10 @@
               "RelativeDocumentMoniker": "interfaces\\Fight.cs",
               "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\Fight.cs",
               "RelativeToolTip": "interfaces\\Fight.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAmwCIAAAAMAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAjwCIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T07:49:20.522Z"
+              "WhenOpened": "2024-11-20T07:49:20.522Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -157,11 +164,12 @@
               "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\Fight.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "interfaces\\Fight.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T06:50:55.965Z"
+              "WhenOpened": "2024-11-20T06:50:55.965Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Fight.Designer.cs",
               "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\Fight.Designer.cs",
               "RelativeDocumentMoniker": "interfaces\\Fight.Designer.cs",
@@ -169,7 +177,8 @@
               "RelativeToolTip": "interfaces\\Fight.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T07:47:45.371Z"
+              "WhenOpened": "2024-11-20T07:47:45.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -185,27 +194,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Creature.cs",
               "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\Creature.cs",
               "RelativeDocumentMoniker": "interfaces\\Creature.cs",
               "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\Creature.cs",
               "RelativeToolTip": "interfaces\\Creature.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAmwB8AAAA5AAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwCAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T12:21:16.581Z"
+              "WhenOpened": "2024-11-10T12:21:16.581Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "IFighter.cs",
               "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\IFighter.cs",
               "RelativeDocumentMoniker": "interfaces\\IFighter.cs",
               "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\IFighter.cs",
               "RelativeToolTip": "interfaces\\IFighter.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T12:20:26.677Z"
+              "WhenOpened": "2024-11-10T12:20:26.677Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -221,31 +232,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "shop.cs",
               "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\shop.cs",
               "RelativeDocumentMoniker": "interfaces\\shop.cs",
               "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\shop.cs",
               "RelativeToolTip": "interfaces\\shop.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAmwCwAAAAxAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAjwDAAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T12:16:31.963Z"
+              "WhenOpened": "2024-11-10T12:16:31.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\Form1.cs",
               "RelativeDocumentMoniker": "interfaces\\Form1.cs",
               "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\Form1.cs",
               "RelativeToolTip": "interfaces\\Form1.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAA6wEMAAAAlAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAewA0AAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T11:49:54.956Z"
+              "WhenOpened": "2024-10-20T11:49:54.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\Program.cs",
               "RelativeDocumentMoniker": "interfaces\\Program.cs",
@@ -253,7 +266,8 @@
               "RelativeToolTip": "interfaces\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T11:49:16.671Z"
+              "WhenOpened": "2024-10-20T11:49:16.671Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -264,18 +278,20 @@
               "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\shop.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "interfaces\\shop.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T12:13:57.817Z"
+              "WhenOpened": "2024-11-10T12:13:57.817Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\Form1.cs",
               "RelativeDocumentMoniker": "interfaces\\Form1.cs",
               "ToolTip": "C:\\Users\\boris\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0435\u043F\u0435\u0442\u0438\u0442\u043E\u0440\u0441\u0442\u0432\u043E\\interfaces\\interfaces\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "interfaces\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T11:48:54.646Z"
+              "WhenOpened": "2024-10-20T11:48:54.646Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
             }
           ]
         },

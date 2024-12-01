@@ -12,9 +12,8 @@ namespace interfaces
 {
     public partial class Fight : Form
     {
-        private int playerHealth = 100;  // Здоровье игрока
-        private int enemyHealth = 100;   // Здоровье противника
-        private List<IWeapon> weapons;   
+       
+        private List<IWeapon> weapons;
 
         public Fight()
         {
@@ -22,7 +21,7 @@ namespace interfaces
 
 
             weapons = Form1.h.weapons;
-            
+
         }
 
         private void Fight_Load(object sender, EventArgs e)
@@ -33,15 +32,20 @@ namespace interfaces
         private void button1_Click(object sender, EventArgs e)
         {
             //   выбора оружия
-          WeaponSelect w=new WeaponSelect();
+            WeaponSelect w = new WeaponSelect();
             w.ShowDialog();
         }
 
         private void UpdateHealth()
         {
-            
-            labelPlayerHealth.Text = $"Здоровье игрока: {playerHealth}";
-            labelEnemyHealth.Text = $"Здоровье противника: {enemyHealth}";
+
+            labelPlayerHealth.Text = $"Здоровье игрока: {Form1.h.Health}";
+            labelEnemyHealth.Text = $"Здоровье противника: {Form1.en.Health}";
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form1.h.Attack(Form1.en,)
         }
     }
 

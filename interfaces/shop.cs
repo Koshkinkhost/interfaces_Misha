@@ -46,6 +46,7 @@ namespace interfaces
                    
                     weapons.Remove(w); 
                     UpdateWeaponList();
+                    label_money.Text= Form1.h.Wallet.ToString();
 
                     
                 }

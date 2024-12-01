@@ -34,7 +34,7 @@
             // listBox1
             // 
             listBox1.FormattingEnabled = true;
-            listBox1.Location = new Point(12, 44);
+            listBox1.Location = new Point(12, 12);
             listBox1.Name = "listBox1";
             listBox1.Size = new Size(239, 204);
             listBox1.TabIndex = 0;
@@ -44,7 +44,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(341, 325);
+            ClientSize = new Size(374, 286);
             Controls.Add(listBox1);
             Name = "WeaponSelect";
             Text = "WeaponSelect";

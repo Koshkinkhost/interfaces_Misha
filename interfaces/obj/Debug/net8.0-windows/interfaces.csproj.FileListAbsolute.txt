@@ -55,3 +55,4 @@ C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\inter
 C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.genruntimeconfig.cache
 C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\ref\interfaces.dll
 C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.WeaponSelect.resources
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.sourcelink.json

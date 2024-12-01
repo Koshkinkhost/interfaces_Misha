@@ -30,6 +30,7 @@ namespace interfaces
 
         public List<Subject> subjects;
         public List<IWeapon> weapons=new List<IWeapon>();
+        public IWeapon SelectedWeapon;
 
     }
 }

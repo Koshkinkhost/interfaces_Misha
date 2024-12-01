@@ -103,6 +103,7 @@
             button2.Text = "В бой";
             button2.TextAlign = ContentAlignment.BottomCenter;
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // Fight
             // 

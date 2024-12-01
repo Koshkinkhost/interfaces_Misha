@@ -11,6 +11,7 @@ namespace interfaces
     public partial class Form1 : Form
     {
         static public Hero h = new Hero() { Weight = 200, Name = "Rob", Health = 1000, Wallet = 1000 };
+        static public Enemy en = new Enemy() { Weight = 200, Name = "Bob", Health = 1000, Wallet = 1000 };
         public Form1()
         {
             InitializeComponent();
@@ -34,7 +35,7 @@ namespace interfaces
             Trader t1 = new Trader();
 
 
-            Enemy en = new Enemy() { Weight = 200, Name = "Rob", Health = 1000, Wallet = 1000 };
+          
             Gun gun = new Gun() { damage = 450 };
 
 
