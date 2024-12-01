@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\Desktop\\interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|c:\\users\\misha\\desktop\\interfaces\\interfaces\\fight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\fight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|c:\\users\\misha\\desktop\\interfaces\\interfaces\\ifighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\ifighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|c:\\users\\misha\\desktop\\interfaces\\interfaces\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|c:\\users\\misha\\desktop\\interfaces\\interfaces\\itrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\itrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|c:\\users\\misha\\desktop\\interfaces\\interfaces\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|c:\\users\\misha\\desktop\\interfaces\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|c:\\users\\misha\\desktop\\interfaces\\interfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|c:\\users\\misha\\desktop\\interfaces\\interfaces\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\fight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\fight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|c:\\users\\misha\\desktop\\interfaces\\interfaces\\fight.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E20C1E1-C239-4F17-B516-93CC23D48F09}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\fight.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fight.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\Fight.cs",
+              "RelativeDocumentMoniker": "interfaces\\Fight.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\Fight.cs",
+              "RelativeToolTip": "interfaces\\Fight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:49:20.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Fight.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\Fight.cs",
+              "RelativeDocumentMoniker": "interfaces\\Fight.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\Fight.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "interfaces\\Fight.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:50:55.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Fight.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\Fight.Designer.cs",
+              "RelativeDocumentMoniker": "interfaces\\Fight.Designer.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\Fight.Designer.cs",
+              "RelativeToolTip": "interfaces\\Fight.Designer.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:47:45.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITrade.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\ITrade.cs",
+              "RelativeDocumentMoniker": "interfaces\\ITrade.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\ITrade.cs",
+              "RelativeToolTip": "interfaces\\ITrade.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:21:49.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Creature.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\Creature.cs",
+              "RelativeDocumentMoniker": "interfaces\\Creature.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\Creature.cs",
+              "RelativeToolTip": "interfaces\\Creature.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:21:16.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFighter.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\IFighter.cs",
+              "RelativeDocumentMoniker": "interfaces\\IFighter.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\IFighter.cs",
+              "RelativeToolTip": "interfaces\\IFighter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:20:26.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\IWeapon.cs",
+              "RelativeDocumentMoniker": "interfaces\\IWeapon.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\IWeapon.cs",
+              "RelativeToolTip": "interfaces\\IWeapon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwEAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:19:28.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "shop.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\shop.cs",
+              "RelativeDocumentMoniker": "interfaces\\shop.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\shop.cs",
+              "RelativeToolTip": "interfaces\\shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:16:31.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\Form1.cs",
+              "RelativeDocumentMoniker": "interfaces\\Form1.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\Form1.cs",
+              "RelativeToolTip": "interfaces\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:49:54.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "interfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\Program.cs",
+              "RelativeToolTip": "interfaces\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:49:16.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "shop.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\shop.cs",
+              "RelativeDocumentMoniker": "interfaces\\shop.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\shop.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "interfaces\\shop.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:13:57.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\Form1.cs",
+              "RelativeDocumentMoniker": "interfaces\\Form1.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\interfaces\\interfaces\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "interfaces\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:48:54.646Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 52,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

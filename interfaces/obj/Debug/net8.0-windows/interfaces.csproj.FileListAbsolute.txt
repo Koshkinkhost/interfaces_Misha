@@ -1,0 +1,57 @@
+C:\Users\boris\source\repos\interfaces\interfaces\bin\Debug\net8.0-windows\interfaces.exe
+C:\Users\boris\source\repos\interfaces\interfaces\bin\Debug\net8.0-windows\interfaces.deps.json
+C:\Users\boris\source\repos\interfaces\interfaces\bin\Debug\net8.0-windows\interfaces.runtimeconfig.json
+C:\Users\boris\source\repos\interfaces\interfaces\bin\Debug\net8.0-windows\interfaces.dll
+C:\Users\boris\source\repos\interfaces\interfaces\bin\Debug\net8.0-windows\interfaces.pdb
+C:\Users\boris\source\repos\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.Form1.resources
+C:\Users\boris\source\repos\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.shop.resources
+C:\Users\boris\source\repos\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.csproj.GenerateResource.cache
+C:\Users\boris\source\repos\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\source\repos\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.AssemblyInfoInputs.cache
+C:\Users\boris\source\repos\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.AssemblyInfo.cs
+C:\Users\boris\source\repos\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\boris\source\repos\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.sourcelink.json
+C:\Users\boris\source\repos\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.dll
+C:\Users\boris\source\repos\interfaces\interfaces\obj\Debug\net8.0-windows\refint\interfaces.dll
+C:\Users\boris\source\repos\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.pdb
+C:\Users\boris\source\repos\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.genruntimeconfig.cache
+C:\Users\boris\source\repos\interfaces\interfaces\obj\Debug\net8.0-windows\ref\interfaces.dll
+C:\Users\Misha\Desktop\interfaces\interfaces\bin\Debug\net8.0-windows\interfaces.exe
+C:\Users\Misha\Desktop\interfaces\interfaces\bin\Debug\net8.0-windows\interfaces.deps.json
+C:\Users\Misha\Desktop\interfaces\interfaces\bin\Debug\net8.0-windows\interfaces.runtimeconfig.json
+C:\Users\Misha\Desktop\interfaces\interfaces\bin\Debug\net8.0-windows\interfaces.dll
+C:\Users\Misha\Desktop\interfaces\interfaces\bin\Debug\net8.0-windows\interfaces.pdb
+C:\Users\Misha\Desktop\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.Form1.resources
+C:\Users\Misha\Desktop\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.shop.resources
+C:\Users\Misha\Desktop\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.csproj.GenerateResource.cache
+C:\Users\Misha\Desktop\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misha\Desktop\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.AssemblyInfoInputs.cache
+C:\Users\Misha\Desktop\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.AssemblyInfo.cs
+C:\Users\Misha\Desktop\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.dll
+C:\Users\Misha\Desktop\interfaces\interfaces\obj\Debug\net8.0-windows\refint\interfaces.dll
+C:\Users\Misha\Desktop\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.pdb
+C:\Users\Misha\Desktop\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.genruntimeconfig.cache
+C:\Users\Misha\Desktop\interfaces\interfaces\obj\Debug\net8.0-windows\ref\interfaces.dll
+C:\Users\Misha\Desktop\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.Fight.resources
+C:\Users\Misha\Desktop\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.Inventory.resources
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\bin\Debug\net8.0-windows\interfaces.exe
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\bin\Debug\net8.0-windows\interfaces.deps.json
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\bin\Debug\net8.0-windows\interfaces.runtimeconfig.json
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\bin\Debug\net8.0-windows\interfaces.dll
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\bin\Debug\net8.0-windows\interfaces.pdb
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.Fight.resources
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.Form1.resources
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.Inventory.resources
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.shop.resources
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.csproj.GenerateResource.cache
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.AssemblyInfoInputs.cache
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.AssemblyInfo.cs
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.dll
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\refint\interfaces.dll
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.pdb
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.genruntimeconfig.cache
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\ref\interfaces.dll
+C:\Users\boris\OneDrive\Рабочий стол\Репетиторство\interfaces\interfaces\obj\Debug\net8.0-windows\interfaces.WeaponSelect.resources
