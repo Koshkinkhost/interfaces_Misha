@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             listBox1 = new ListBox();
+            button1 = new Button();
             SuspendLayout();
             // 
             // listBox1
@@ -40,11 +41,22 @@
             listBox1.TabIndex = 0;
             listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
             // 
+            // button1
+            // 
+            button1.Location = new Point(283, 225);
+            button1.Name = "button1";
+            button1.Size = new Size(94, 29);
+            button1.TabIndex = 1;
+            button1.Text = "Выбрать";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
             // WeaponSelect
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(374, 286);
+            ClientSize = new Size(634, 286);
+            Controls.Add(button1);
             Controls.Add(listBox1);
             Name = "WeaponSelect";
             Text = "WeaponSelect";
@@ -55,5 +67,6 @@
         #endregion
 
         private ListBox listBox1;
+        private Button button1;
     }
 }

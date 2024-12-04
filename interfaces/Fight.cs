@@ -45,7 +45,15 @@ namespace interfaces
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form1.h.Attack(Form1.en,)
+            if(Form1.h.SelectedWeapon is not null)
+            {
+                Form1.h.Attack(Form1.en, Form1.h.SelectedWeapon);
+                Random r = new Random();
+                Form1.en.SelectedWeapon = shop.weapons[r.Next(0,shop.weapons.Count)];
+                Form1.en.Attack(Form1.h, Form1.en.SelectedWeapon);
+                UpdateHealth();
+            }
+            
         }
     }
 

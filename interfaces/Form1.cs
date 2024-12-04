@@ -79,14 +79,11 @@ namespace interfaces
         public double price;
 
     }
-    
-    
-   
-   
-    
-    public class Enemy : Creature
-    {
 
-    }
-   
+
+
+
+
+    
+
 }

@@ -28,6 +28,18 @@ namespace interfaces
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (listBox1.SelectedIndex != -1)
+            {
+                IWeapon sel= listBox1.SelectedItem as IWeapon;
+                Form1.h.SelectedWeapon = Form1.h.weapons.Find(u => u.GetName() == sel.GetName());
+                MessageBox.Show(Form1.h.SelectedWeapon.ToString());
+                this.Close();
+            }
         }
     }
 }

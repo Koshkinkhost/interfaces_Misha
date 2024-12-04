@@ -81,7 +81,7 @@ namespace interfaces
             if (WeaponsList.SelectedItem != null)
             {
                 IWeapon selectedWeapon = (IWeapon)WeaponsList.SelectedItem;
-
+                MessageBox.Show(selectedWeapon.ToString());
                 PurchaseWeapon(Form1.h, selectedWeapon);
             }
             else

@@ -12,6 +12,7 @@ namespace interfaces
     }
     public class Hero : Creature, IFighter
     {
+
         public void Attack(Creature c, IWeapon w)
         {
             int damage = w.GetDamage();
@@ -21,5 +22,14 @@ namespace interfaces
 
 
 
+    }
+    public class Enemy : Creature, IFighter
+    {
+
+        public void Attack(Creature c, IWeapon w)
+        {
+            int damage = w.GetDamage();
+            c.Health -= damage;
+        }
     }
 }
